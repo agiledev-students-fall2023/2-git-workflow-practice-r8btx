@@ -12,3 +12,4 @@ Just like many other buzzwords, the idea behind Agile itself is novel and can br
 
 Michael Shu:
 Seems pretty accurate an over abundance of bureaucracy always leads to things being slower. 
+what do i Have to do to get a commit going?
